@@ -16,7 +16,7 @@ actor_list.csv - this is a list of every actor's imdb page for which we match to
 
 inflation_adjustment.csv - price column has average movie ticket. adjust column is how we scaled domestic box office
 
-box_office.csv - this is a scrape of IMDB's ranking of films by domestic box office. the domestic gross is then scaled by the inflation adjustment amount. Note this is produces wildly inaccurate results for older films since IMDB's data includes revenue from later dates.
+box_office.csv - this is a scrape of IMDB's ranking of films by domestic box office. the domestic gross is then scaled by the inflation adjustment amount. Note this produces wildly inaccurate results for older films since IMDB's data includes revenue from later dates.
 
 The selected scripts and their sources are also publicly maintained here:
 https://docs.google.com/spreadsheets/d/1fbcldxxyRvHjDaaY0EeQnQzvSP7Ub8QYVM2bIs-tKH8/edit#gid=1668340193
