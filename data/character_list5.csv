@@ -1735,6 +1735,7 @@
 818,"satan",262,"m",52
 821,"chairman of joi",199,"m",60
 821,"david drumlin",1402,"m",64
+821,"ellie",4870,"f",35
 821,"hadden suit",752,"m",NULL
 821,"jean-claude",244,"m",NULL
 821,"kent",285,"m",41
@@ -1745,7 +1746,6 @@
 821,"peter",804,"m",NULL
 821,"project officia",117,"m",61
 821,"ted arroway",568,"m",44
-821,"young ellie",4870,"f",13
 822,"anthony fait",2273,"m",33
 822,"archie",983,"m",44
 822,"chambers's club",510,"m",40
@@ -3616,6 +3616,22 @@
 1360,"taun we",139,"f",40
 1360,"watto",140,"m",49
 1360,"yoda",355,"m",58
+1361,"academy preside",225,"m",NULL
+1361,"amanda",106,"f",38
+1361,"ayel",171,"m",39
+1361,"captain kirk",2014,"m",78
+1361,"captain robau",197,"m",46
+1361,"chekov",308,"m",73
+1361,"dr. mccoy",594,"m",89
+1361,"george kirk",205,"m",26
+1361,"nero",526,"m",41
+1361,"pike",807,"m",53
+1361,"sarek",267,"m",62
+1361,"scotty",460,"m",89
+1361,"spock",561,"m",78
+1361,"sulu",247,"m",72
+1361,"uhura",471,"f",77
+1361,"winona",105,"f",30
 1362,"ben obi-wan ken",995,"m",63
 1362,"c-3po",1506,"m",31
 1362,"cmdr. praji (im",117,"m",42
@@ -11417,29 +11433,6 @@
 3563,"ricki tarr",927,"m",34
 3563,"roy bland",243,"m",58
 3563,"toby esterhase",285,"m",37
-3565,"1st officer mur",126,"m",40
-3565,"2nd officer lig",238,"m",34
-3565,"bobby buell",136,"m",34
-3565,"brock lovett",1714,"m",42
-3565,"bruce ismay",392,"m",49
-3565,"caledon 'cal' h",1708,"m",31
-3565,"captain edward ",382,"m",53
-3565,"col. archibald ",150,"m",70
-3565,"fabrizio",288,"m",29
-3565,"father byles",232,"m",NULL
-3565,"frederick fleet",126,"m",25
-3565,"harold bride",118,"m",27
-3565,"lewis bodine",788,"m",NULL
-3565,"lizzy calvert",244,"f",35
-3565,"molly brown",738,"f",49
-3565,"old rose",1050,"f",87
-3565,"rose dewitt buk",3958,"f",22
-3565,"ruth dewitt buk",768,"f",45
-3565,"scotland road s",198,"m",NULL
-3565,"spicer lovejoy",348,"m",56
-3565,"thomas andrews",784,"m",48
-3565,"tommy ryan",252,"m",25
-3565,"woman",180,"f",52
 3569,"babe brother",2302,"m",28
 3569,"gideon",3870,"m",NULL
 3569,"harry",5306,"m",44
@@ -15014,6 +15007,26 @@
 5126,"mr. wabash",233,"m",73
 5126,"s.w. wicks",188,"m",53
 5126,"tv reporter",105,"m",52
+5136,"2nd officer lig",153,"m",34
+5136,"brock lovett",1062,"m",42
+5136,"bruce ismay",286,"m",49
+5136,"caledon 'cal' h",1210,"m",31
+5136,"captain edward ",252,"m",53
+5136,"col. archibald ",102,"m",70
+5136,"fabrizio",189,"m",29
+5136,"father byles",149,"m",NULL
+5136,"jack dawson",2607,"m",23
+5136,"lewis bodine",649,"m",NULL
+5136,"lizzy calvert",158,"f",35
+5136,"molly brown",474,"f",49
+5136,"old rose",641,"f",87
+5136,"rose dewitt buk",2792,"f",22
+5136,"ruth dewitt buk",502,"f",45
+5136,"scotland road s",154,"m",NULL
+5136,"spicer lovejoy",287,"m",56
+5136,"thomas andrews",559,"m",48
+5136,"tommy ryan",166,"m",25
+5136,"woman",116,"f",52
 5142,"albert 'gloansy",238,"m",NULL
 5142,"bearns",127,"m",NULL
 5142,"big mac",177,"m",NULL
@@ -19608,24 +19621,6 @@
 7759,"smee",423,"m",NULL
 7759,"Tiger Lily",2128,"f",30
 7759,"turk",546,"m",NULL
-7762,"amanda grayson",206,"f",38
-7762,"ayel",205,"m",39
-7762,"Bones",698,"m",37
-7762,"Captain Robau",250,"m",46
-7762,"chekov",280,"m",20
-7762,"george jr",119,"m",NULL
-7762,"george kirk",254,"m",26
-7762,"nero",362,"m",41
-7762,"officer pitts",146,"m",27
-7762,"pike",874,"m",53
-7762,"sarek",309,"m",62
-7762,"scotty",500,"m",39
-7762,"spock",1727,"m",32
-7762,"spock prime",1136,"m",78
-7762,"sulu",392,"m",37
-7762,"uhura",476,"f",31
-7762,"vulcan science ",169,"m",77
-7762,"winona kirk",150,"f",30
 7763,"Delacourt",846,"f",51
 7763,"frey",1363,"f",30
 7763,"head smuggler",173,"m",43
